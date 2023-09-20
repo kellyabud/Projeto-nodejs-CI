@@ -4,7 +4,7 @@
   "description": "Pipeline de testes unitários",
   "main": "index.js",
   "scripts": {
-    "test": "jest --config jest.config.yml"
+    "test": "jest"
   },
   "keywords": [],
   "author": "Kelly Abud",
