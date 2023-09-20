@@ -1,0 +1,12 @@
+{
+  "name": "projeto-nodejs-ci",
+  "version": "1.0.0",
+  "description": "Pipeline de testes unitários",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Kelly Abud",
+  "license": "ISC"
+}
