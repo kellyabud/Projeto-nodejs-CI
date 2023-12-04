@@ -9,6 +9,7 @@
 - npm install --save-dev jest
 -  "scripts": {
     "test": "jest"
+   }
 
 -  Crie um arquivo .github/workflows/node.yml
 
